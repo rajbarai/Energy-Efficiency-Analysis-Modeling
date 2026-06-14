@@ -1,4 +1,4 @@
-# Architectural Design & Building Energy Efficiency: A Machine Learning Benchmark Study
+# Architectural Design & Building Energy Efficiency: Using Machine Learning Algorithm
 
 ## 📋 Project Overview
 This repository hosts an end-to-end data analytics and predictive modeling pipeline that evaluates how structural architectural parameters dictate a building's thermal efficiency[cite: 3, 4]. Utilizing a dense parametric experimental dataset, this project establishes rigorous statistical baselines and maps classification performance across eight distinct machine learning and deep learning frameworks[cite: 3, 4]. 
